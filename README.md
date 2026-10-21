@@ -22,4 +22,4 @@
 <img src="RSEc_Logomark_mono.svg" width="300">
 
 ### Logomark Mono RGB
-<img src="RSEc_Logomark_mono_RGB.png" width="300">
+<img src="RSEc_Logomark_mono_RGB.png" width="150">
