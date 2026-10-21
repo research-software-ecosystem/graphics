@@ -13,7 +13,7 @@
 <img src="RSEc_Logo_FULL_mono_CMYK.svg" width="300">
 
 ### Logomark Full
-<img src="RSEc_Logomark_FULL.svg" width="300">
+<img src="RSEc_Logomark_FULL.svg" width="150">
 
 ### Logomark RGB
 <img src="RSEc_Logomark_RGB.png" width="100">
